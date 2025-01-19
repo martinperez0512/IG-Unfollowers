@@ -6,7 +6,7 @@ Below is a step-by-step to see who
 
 ## Step 1
 
-Download your instagram information in Settings on your account
+Access your Instagram information from your account
 
 Below is the method I use (I login into Instagram on my laptop)
 
@@ -22,7 +22,7 @@ Download the data from the email
 
 ## Step 3
 
-Once you have all of the files, run the script [here](tk) with your followers and following JSON files that you've downloaded
+Once you have all of the files, run the script [here](https://github.com/martinperez0512/IG-Unfollowers/blob/main/unfollowers.py) with your followers and following JSON files that you've downloaded
 
 ## Step 4
 
