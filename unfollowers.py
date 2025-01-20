@@ -2,7 +2,7 @@ import json
 
 following = open('following.json', 'r')
 followers = open('followers.json', 'r')
-# need to modify the FOLLOWERS file with every new download to allow for parsing
+# depending on download, might need to modify the FOLLOWERS file with every new download to allow for proper parsing
 # just add an extra bracket {} and rename the file to 'followers.json'
 
 
