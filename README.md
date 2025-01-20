@@ -2,7 +2,7 @@
 
 This program allows you to see who has unfollowed your instagram account. 
 
-Below is a step-by-step to see who 
+Below is a step-by-step to see who unfollowed 
 
 ## Step 1
 
