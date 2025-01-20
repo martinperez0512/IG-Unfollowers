@@ -22,7 +22,7 @@ Download the data from the email
 
 ## Step 3
 
-Once you have all of the files, run the script [here](https://github.com/martinperez0512/IG-Unfollowers/blob/main/unfollowers.py) with your followers and following JSON files that you've downloaded
+Once you have all of the files, run [this](https://github.com/martinperez0512/IG-Unfollowers/blob/main/unfollowers.py) python script with your followers and following JSON files that you've downloaded
 
 ## Step 4
 
