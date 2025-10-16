@@ -10,9 +10,9 @@ Access your Instagram information from your account
 
 Below is the method I use (I login into Instagram on my laptop)
 
-Instagram >> Settings and Activity >> Accounts Center >> Your Information and Permissions >> Download your information >> Some of your information >> Followers and Following >> Download to device
+Instagram -> Settings and Activity -> Accounts Center -> Your Information and Permissions -> Download your information -> Some of your information -> Followers and Following -> Download to device
 
-For the date range I use All Time and the format as JSON (I haven't had any issues with medium media quality).
+For the date range I use "All Time" and the format as JSON (media quality is set to "medium", I haven't had any issues with medium media quality).
 
 ## Step 2
 
